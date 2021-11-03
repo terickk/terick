@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security, web technology, e-learning
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tericksa@gmail.com
 
 <!---
 terickk/terickk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
